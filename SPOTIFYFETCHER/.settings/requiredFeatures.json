@@ -11,7 +11,5 @@
     "id" : "org.talend.lite.di.resource.feature.feature.group"
   }, {
     "id" : "org.talend.lite.di.testcontainer.feature.feature.group"
-  }, {
-    "id" : "org.talend.lite.esb.apidesigner.feature.feature.group"
   } ]
 }
