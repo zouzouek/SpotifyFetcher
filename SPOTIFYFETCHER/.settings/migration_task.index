@@ -1326,6 +1326,11 @@
     "version" : "5.4.2",
     "status" : "noimpact"
   }, {
+    "id" : "org.talend.repository.model.migration.ChangeReturnKeysDefault4tAS400Output",
+    "breaks" : "8.0.1",
+    "version" : "8.0.1",
+    "status" : "noimpact"
+  }, {
     "id" : "org.talend.repository.model.migration.ChangeSalesForceComponetsCustomerModuleName",
     "breaks" : "5.2.2",
     "version" : "5.2.3",
